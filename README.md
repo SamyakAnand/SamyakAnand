@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **samyak.g.anand@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Gen AI
-- 👯 **I’m looking to collaborate on:** Data Science / Machine Learning /AI
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🏢 **Data Scientist Intern at Evoastra Ventures PVT LTD** 
+- 🔭 **I’m currently working on:  Automated Resume Analysis Tool using NLP** 
+- 🌱 **I’m currently learning: Gen AI** 
+- 👯 **I’m looking to collaborate on: Data Science / Machine Learning /AI** 
+- 💬 **Ask me about: Collaboration, Tech Support** 
 - 📫 **How to reach me:** samyak.g.anand@gmail.com
-- 😄 **Pronouns:** Samyak 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
@@ -42,4 +42,3 @@ Email Me 👉 ✉️ **samyak.g.anand@gmail.com** For Collaboration/Project or A
 ---
 [![](https://visitcount.itsvg.in/api?id=SamyakAnand&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
