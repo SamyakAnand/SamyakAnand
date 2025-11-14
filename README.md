@@ -139,6 +139,12 @@ I specialize in:
 Python • R • SQL • Java • C • HTML • CSS  
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,r,java,c,html,css&theme=dark" height="40"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" height="60">
+
+
+
+
+
 </p>
 
 ## 🟠 Data Science & Analytics  
