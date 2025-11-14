@@ -123,7 +123,7 @@ I specialize in:
 
 ---
 
-# 🧪 Tech Stack (Premium Two-Column Layout)
+# 🧪 Tech Stack
 
 <table align="center">
 <tr>
