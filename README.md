@@ -58,11 +58,17 @@ I specialize in:
 
 # 🎓 Education
 
-### 🎓 **B.Tech in Computer Science & Engineering**  
-**Ballarpur Institute of Technology** (2021–2024)
+## 🎓 B.Tech — Computer Science & Engineering  
+**Ballarpur Institute of Technology**  
+📅 2021 – 2024  
+🏅 Focus: Machine Learning, Data Science, Algorithms, Cloud Computing
 
-### 🎓 **Diploma in Computer Science**  
-**Bajaj College of Polytechnic** (2018–2021)
+---
+
+## 🎓 Diploma — Computer Science  
+**Bajaj College of Polytechnic**  
+📅 2018 – 2021  
+🏅 Foundation in Programming, Databases, Operating Systems
 
 ---
 
