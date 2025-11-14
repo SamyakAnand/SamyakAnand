@@ -167,13 +167,28 @@ Scikit-learn • TensorFlow • PyTorch • Keras • NLTK • spaCy • Transfo
 <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32"/>
 </p>
 
-## 🟩 MLOps & Cloud  
-MLflow • DVC • FastAPI • Flask • Docker • Kubernetes • AWS • GCP • Azure  
+## 🟩 MLOps & Cloud
 <p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,aws,gcp,azure&theme=dark" height="40"/>
-<img src="https://dvc.org/img/logo.png" height="35"/>
-<img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="35"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="32"/>
+<img src="https://cdn.simpleicons.org/dvc/945DD6" height="40"/>
+
+
+<br>
+
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
 </p>
+
+<strong>FastAPI • Flask • Docker • Kubernetes • MLflow • DVC • AWS • GCP • Azure</strong>
+
 
 ## 🟡 Developer Tools  
 Git • GitHub • VS Code • PyCharm • Jupyter • DAGsHub  
