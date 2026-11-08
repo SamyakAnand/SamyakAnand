@@ -1,0 +1,70 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#07111F"/>
+    <stop offset=".55" stop-color="#0B1B2B"/>
+    <stop offset="1" stop-color="#102C35"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="120" y1="60" x2="820" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#5EEAD4"/>
+    <stop offset=".52" stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#818CF8"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#142A3B" stop-opacity=".96"/>
+    <stop offset="1" stop-color="#0A1827" stop-opacity=".82"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" stroke="#9FB8C8" stroke-opacity=".08"/>
+  </pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1010" cy="166" r="230" fill="#0EA5A4" fill-opacity=".08"/>
+<circle cx="1110" cy="50" r="155" fill="#38BDF8" fill-opacity=".06"/>
+<path d="M0 294C210 244 300 340 505 290C710 240 790 290 950 235C1090 188 1160 215 1280 160" stroke="url(#accent)" stroke-opacity=".22" stroke-width="2"/>
+<path d="M0 318C230 268 320 360 535 314C740 270 850 310 1010 260C1130 224 1200 236 1280 204" stroke="#5EEAD4" stroke-opacity=".12" stroke-width="1.5"/>
+<g opacity=".9">
+  <circle cx="868" cy="88" r="4" fill="#5EEAD4"/>
+  <circle cx="932" cy="130" r="3" fill="#38BDF8"/>
+  <circle cx="1020" cy="72" r="4" fill="#818CF8"/>
+  <circle cx="1120" cy="144" r="3" fill="#5EEAD4"/>
+  <circle cx="1190" cy="88" r="4" fill="#38BDF8"/>
+  <path d="M868 88L932 130L1020 72L1120 144L1190 88" stroke="#67E8F9" stroke-opacity=".35" stroke-width="1.5"/>
+  <path d="M932 130L970 220L1120 144L1190 88" stroke="#67E8F9" stroke-opacity=".22" stroke-width="1.5"/>
+  <circle cx="970" cy="220" r="3" fill="#818CF8"/>
+</g>
+<g transform="translate(790 68)">
+  <rect x="0" y="0" width="410" height="222" rx="16" fill="url(#panel)" stroke="#7DD3FC" stroke-opacity=".28"/>
+  <rect x="18" y="18" width="374" height="26" rx="7" fill="#1B3448"/>
+  <circle cx="34" cy="31" r="3.5" fill="#5EEAD4"/>
+  <circle cx="47" cy="31" r="3.5" fill="#38BDF8"/>
+  <circle cx="60" cy="31" r="3.5" fill="#818CF8"/>
+  <text x="78" y="35" fill="#B7CBD8" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="1.5">INTELLIGENCE WORKSPACE</text>
+  <text x="22" y="72" fill="#8FA9BA" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="1.2">MODEL QUALITY</text>
+  <text x="22" y="103" fill="#F0F9FF" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="700">94.8%</text>
+  <path d="M22 166L62 146L99 153L136 119L173 132L211 98L249 111L286 78L324 89L365 57" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <path d="M22 166L62 146L99 153L136 119L173 132L211 98L249 111L286 78L324 89L365 57V183H22V166Z" fill="url(#accent)" fill-opacity=".09"/>
+  <path d="M22 184H366" stroke="#7894A7" stroke-opacity=".28"/>
+  <g fill="#7894A7" font-family="Inter,Arial,sans-serif" font-size="8">
+    <text x="22" y="199">01</text><text x="105" y="199">02</text><text x="188" y="199">03</text><text x="271" y="199">04</text><text x="352" y="199">05</text>
+  </g>
+  <rect x="286" y="57" width="82" height="25" rx="7" fill="#0F766E" fill-opacity=".24" stroke="#5EEAD4" stroke-opacity=".35"/>
+  <text x="327" y="73" text-anchor="middle" fill="#99F6E4" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="600">EVALUATED</text>
+</g>
+<g transform="translate(76 74)">
+  <text x="0" y="18" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4">AI ENGINEERING  /  DATA SCIENCE</text>
+  <text x="-2" y="94" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="60" font-weight="800" letter-spacing="-2.5">SAMYAK ANAND</text>
+  <rect x="0" y="117" width="76" height="4" rx="2" fill="url(#accent)"/>
+  <text x="0" y="158" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">From data to decisions.</text>
+  <text x="0" y="190" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">From models to intelligent products.</text>
+  <text x="0" y="238" fill="#91A9B9" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.6">MACHINE LEARNING  ·  GENAI  ·  ANALYTICS  ·  PYTHON</text>
+</g>
+<path d="M76 306H1204" stroke="#8BA6B7" stroke-opacity=".18"/>
+<text x="76" y="332" fill="#8BA6B7" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="2">BUILDING USEFUL, MEASURABLE &amp; EXPLAINABLE SYSTEMS</text>
+<text x="1204" y="332" text-anchor="end" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="2">HYDERABAD, INDIA</text>
+</svg>
