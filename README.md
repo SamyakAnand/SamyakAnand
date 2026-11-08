@@ -112,7 +112,7 @@ I'm interested in **AI Engineer, Applied AI Engineer and Python Backend Engineer
 
 - **Portfolio:** https://samyak-anand.vercel.app/
 - **LinkedIn:** https://www.linkedin.com/in/samyakanand/
-- **Email:** samyak anand2003@gmail.com
+- **Email:** samyakanand2003@gmail.com
 
 ---
 
