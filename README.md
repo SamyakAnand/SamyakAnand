@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/sam-exe-banner.svg" width="100%" alt="Samyak Anand — AI, Machine Learning and Data Science Engineer" />
+  <img src="assets/samyak-anand-banner.svg" width="100%" alt="Samyak Anand — AI, Machine Learning and Data Science Engineer" />
 
   <p>
     <a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-0B1726?style=for-the-badge&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
