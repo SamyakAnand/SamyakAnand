@@ -14,6 +14,8 @@
 
   <img src="assets/neural-orbit.svg" width="100%" alt="Animated neural network orbit in the SAM.exe color palette" />
 
+  <img src="assets/stack-orbit.svg" width="100%" alt="SAM.exe engineering stack orbital visualization" />
+
 </div>
 
 ---
@@ -30,6 +32,13 @@ My engineering priorities:
 - **Reproducibility:** version the work, validate changes, and automate repeatable tasks.
 
 **Currently:** Data Science Trainer at Softgrowth Infotech · Hyderabad, India.
+
+## / project constellation
+
+<div align="center">
+  <img src="assets/project-constellation.svg" width="100%" alt="3D-inspired constellation connecting NEXUS, ARGUS AI, SHIRO and applied ML projects" />
+  <sub>Independent projects connected by shared engineering principles — retrieval, evaluation, data, and delivery.</sub>
+</div>
 
 ## / featured systems
 
