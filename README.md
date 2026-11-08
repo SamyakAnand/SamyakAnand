@@ -1,255 +1,186 @@
-<!-- ⚡ FINAL PREMIUM README — Based Entirely on Resume -->
+<!--
+  SAM.exe // PROFILE INTERFACE
+  Original visual identity: cosmic violet + anime-inspired systems aesthetic.
+  Built with GitHub-flavoured Markdown, HTML, SVG and live profile widgets.
+-->
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2500&pause=1200&color=A56BFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Samyak+Anand+👋;Data+Scientist+%7C+ML+Engineer+%7C+AI+Enthusiast;Designing+Intelligent+Systems+That+Scale;Welcome+to+My+AI+Universe+🚀">
-</p>
+<img src="assets/sam-exe-banner.svg" alt="SAM.exe — The AI Universe" width="100%"/>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-9552FF?style=for-the-badge&labelColor=000">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-B266FF?style=for-the-badge&labelColor=000">
-  <img src="https://img.shields.io/badge/AI%20Engineer-7F3DFF?style=for-the-badge&labelColor=000">
-</p>
+<a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20the%20universe-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/samyakanand/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/SamyakAnand?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-Explore%20my%20work-5A189A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
----
+<br/><br/>
 
-# 🌌 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=C4B5FD&center=true&vCenter=true&width=850&lines=AI+Engineer+in+the+making;Building+RAG+%7C+LLM+%7C+Agentic+AI+systems;Turning+complex+problems+into+working+software;Curiosity+is+my+permanent+runtime." alt="Animated introduction"/>
 
-I’m **Samyak Anand**, a passionate **Data Scientist & ML Engineer** with hands-on experience building  
-**predictive ML systems, NLP pipelines, ETL workflows, cloud deployments**, and **end-to-end MLOps projects**.
+<br/>
 
-I specialize in:
+![Profile views](https://komarev.com/ghpvc/?username=SamyakAnand&style=flat-square&color=8B5CF6&label=PROFILE+VISITORS)
+![GitHub followers](https://img.shields.io/github/followers/SamyakAnand?style=flat-square&color=7C3AED&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/SamyakAnand?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=A78BFA&label=STARS)
 
-- 🧠 **Machine Learning & Deep Learning** (scikit-learn, TensorFlow, PyTorch)
-- 🔡 **NLP** (spaCy, NLTK, Transformers, Resume Parsing)
-- ⚙️ **MLOps** (MLflow, DVC, DAGsHub, FastAPI, CI/CD, Docker)
-- 🚀 **Cloud Deployment** (AWS, Azure, GCP)
-- 📊 **Data Analytics & Visualization** (Power BI, Tableau, Excel)
-- 🛠 **Data Pipelines & ETL** (Web scraping, data ingestion, cleaning, schema validation)
-- 🧬 **Clinical & Predictive Modeling** (Disease prediction models, statistical insights)
-
-🌟 **My Goal:** Craft scalable AI systems that create real-world business impact.
-
-📨 Email → **samyak.g.anand@gmail.com**
+</div>
 
 ---
 
-# 💼 Experience
+## 01 / CHARACTER PROFILE
 
-## 🔹 Data Scientist Intern – Evoastra Ventures Inc  
-📅 Jun 2025 – Aug 2025  
-- Led a team of **5 interns** to build end-to-end ML workflows using **Python, SQL, scikit-learn, and Power BI**.  
-- Developed a **CARS24 web-scraping + analytics pipeline** to track real-time pricing trends and market patterns.  
-- Built an **AI-powered Resume Parser (NLP + Flask)** to extract candidate details and match resumes with job descriptions, speeding up shortlisting.  
-- Delivered modular pipelines covering **data ingestion → cleaning → modeling → insights dashboards**.
+Hey, I'm **Samyak Anand** — a developer, educator, and AI enthusiast focused on building useful intelligent systems.
 
----
+I work across **AI engineering, machine learning, data science, and backend development**. I enjoy taking an idea from a rough concept to a working product: designing the architecture, building the pipelines, connecting models and tools, and making the experience understandable.
 
-## 🔹 Data Science & ML Intern – Gilbert Research Center  
-📅 Mar 2024 – Jul 2024  
-- Engineered **clinical ML models** with modular pipelines and **drift detection**, deployed using **Flask + MLflow + DAGsHub**.  
-- Applied **advanced statistical methods** to improve accuracy & interpretability of clinical data insights.  
-- Collaborated with cross-functional teams to translate ML insights into **clinical recommendations**, improving patient outcomes.  
+- 🧠 Exploring **LLMs, RAG, agentic workflows, AI evaluation, and multimodal systems**
+- 🛠️ Building practical products with **Python, FastAPI, Next.js, and modern AI tooling**
+- 🎓 Working as a **Data Science Trainer at Softgrowth Infotech**
+- 🌌 Creating a portfolio of experiments under the **SAM.exe** identity
+- 📍 Based in **Hyderabad, India**
+
+> *I don't just want to use intelligent systems. I want to understand them, build them, evaluate them, and make them useful.*
 
 ---
 
-# 🎓 Education
+## 02 / THE SKILL TREE
 
-## 🎓 B.Tech — Computer Science & Engineering  
-**Ballarpur Institute of Technology**  
-📅 2021 – 2024  
-🏅 Focus: Machine Learning, Data Science, Algorithms, Cloud Computing
+<div align="center">
 
----
+| DOMAIN | TECHNOLOGIES |
+|:--|:--|
+| **Languages** | Python · SQL · Java · C · JavaScript · HTML · CSS |
+| **AI / ML** | Scikit-learn · TensorFlow · PyTorch · Keras · NLP · Transformers |
+| **Generative AI** | LLMs · RAG · LangChain · Agentic AI · Prompt Engineering |
+| **Data** | Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Excel |
+| **Backend** | FastAPI · Flask · REST APIs · Streamlit |
+| **Databases** | MySQL · PostgreSQL · MongoDB |
+| **MLOps / Cloud** | Docker · MLflow · DVC · GitHub Actions · AWS · Azure · GCP |
+| **Build tools** | Git · GitHub · Linux · VS Code · Jupyter |
 
-## 🎓 Diploma — Computer Science  
-**Bajaj College of Polytechnic**  
-📅 2018 – 2021  
-🏅 Foundation in Programming, Databases, Operating Systems
+</div>
 
----
-
-# 🏆 Achievements & Certifications
-
-- Full Stack Data Science & AI — Naresh IT  
-- Data Science & ML (Beginners → Advanced) — Udemy  
-- Built 10+ real-world ML & AI systems  
-- Cloud Deployments on AWS + Render
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,fastapi,flask,react,nextjs,tailwind,pytorch,tensorflow,sklearn,mongodb,postgres,mysql,docker,git,github,linux,aws,gcp,azure&perline=9&theme=dark" alt="Technology icons"/>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 03 / ACTIVE MISSIONS
 
-## 🧠 **AI Resume Analyzer (NLP + Semantic Engine)**
-- Extracts skills, education, experience from PDF/DOCX  
-- Hybrid matching: **Semantic + TF-IDF + Skill overlap**  
-- Flask API + Responsive UI  
-- Cuts resume screening from minutes to seconds  
+These are selected projects and experiments from my engineering lab. Each repository contains its own implementation details and current scope.
 
----
-
-## 🩺 **Disease Predictor – Multi-Disease ML System**
-- 5 separate models:  
-  ✔ Heart, Kidney, Liver, Diabetes, Breast Cancer  
-- Modular pipeline: ingestion → validation → training → drift  
-- MLflow experiment tracking  
-- Flask API deployment  
-- MongoDB backend  
-
----
-
-## 🚗 **Cars24 Hyderabad Web Scraper + Market Analytics**
-- Scraped real-time used-car listings  
-- Built a complete ETL pipeline  
-- Provided price segmentation, trend analysis & market insights  
-- Clean modular code: `scrape.py` + `analyze.py`
-
----
-
-## 🛡️ **Network Intrusion Detection ML Pipeline**
-- FastAPI + Docker + AWS  
-- MLflow + DAGsHub for version control  
-- 97%+ F1 score  
-- End-to-end production-grade cybersecurity pipeline  
-
----
-
-# 📄 Resume
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-Coming%20Soon-A56BFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
-  </a>
-</p>
-
-<p align="center">I will update the resume download link soon.</p>
-
----
-
-# 🧪 Tech Stack
-
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-## 🟣 Core Programming  
-Python • R • SQL • Java • C • HTML • CSS  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,r,java,c,html,css&theme=dark" height="40"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" height="60">
+### 🧭 [NEXUS — Autonomous Data Analyst](https://github.com/SamyakAnand/NEXUS)
 
+An analytics workspace that profiles datasets, plans analysis, executes deterministic tools, validates outputs, and returns evidence-backed findings with an observable trace.
 
-
-
-
-</p>
-
-## 🟠 Data Science & Analytics  
-Pandas • NumPy • Matplotlib • Seaborn • Tableau • Power BI • Excel  
-<p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="35"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="35"/>  
-<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="35"/>  
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35"/>  
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau.svg" height="35"/>  
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="35"/>  
-<img src="https://img.icons8.com/color/512/microsoft-excel-2019.png" height="35"/>
-</p>
-
-## 🟦 Databases  
-MySQL • PostgreSQL • MongoDB • MS SQL Server  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
-</p>
+**Core stack:** Next.js · FastAPI · Pandas · Python · SQL
 
 </td>
 <td width="50%" valign="top">
 
-## 🔵 Machine Learning & AI  
-Scikit-learn • TensorFlow • PyTorch • Keras • NLTK • spaCy • Transformers  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40"/>
-<img src="https://img.shields.io/badge/NLTK-026e00?style=for-the-badge&logo=python&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="32"/>
-</p>
+### 🔍 [ARGUS AI](https://github.com/SamyakAnand/Argus-Ai)
 
-## 🟩 MLOps & Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="40"/>
-<img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="40"/>
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="40"/>
+An evidence-oriented knowledge and decision assistant focused on document-grounded answers, traceable evidence, and controlled knowledge workflows.
 
-<br>
+**Focus:** RAG · Knowledge systems · Evidence · AI safety
 
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" height="32"/>
-<img src="https://cdn.simpleicons.org/dvc/945DD6" height="40"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### ☁️ [SHIRO AI](https://github.com/SamyakAnand/Shiro-Ai)
 
-<br>
+An AI workspace experiment exploring a focused environment for interacting with intelligent tools and workflows.
 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40"/>
-</p>
+**Focus:** AI workspace · Product engineering
 
-<strong>FastAPI • Flask • Docker • Kubernetes • MLflow • DVC • AWS • GCP • Azure</strong>
+</td>
+<td width="50%" valign="top">
 
+### ☄️ [AKATSUKI](https://github.com/SamyakAnand/Akatsuki)
 
-## 🟡 Developer Tools  
-Git • GitHub • VS Code • PyCharm • Jupyter • DAGsHub  
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" height="40"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="32"/>
-<img src="https://img.shields.io/badge/DAGsHub-000000?style=for-the-badge&logo=github&logoColor=white" height="32"/>
-</p>
+An anime-inspired multi-agent platform concept exploring coordinated AI experiences and creative tooling.
+
+**Focus:** Multi-agent systems · AI product design
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>🗂️ Explore more repositories</b></summary>
+<br/>
 
-# 🖤 GitHub Stats
+- [Resume Analyzer](https://github.com/SamyakAnand/Resume-Analyzer) — resume parsing and analysis.
+- [Student Performance Indicator](https://github.com/SamyakAnand/Student-Performance-Indicator) — machine-learning project for student performance prediction.
+- [Insurance Data Analysis](https://github.com/SamyakAnand/Insurance-Data-Analysis) — exploratory data analysis and insights.
+- [Financial Risk Analytics Dashboard](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project) — Power BI financial-risk analysis.
+- [Netflix Dashboard](https://github.com/SamyakAnand/Netflix-Dashboard-in-Power-BI) — interactive content analytics.
+- [Amazon Prime Video Dashboard](https://github.com/SamyakAnand/Amazon-Prime-Video-Dashboard-in-Power-BI-) — streaming catalogue analysis.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SamyakAnand&show_icons=true&title_color=A56BFF&icon_color=B07BFF&text_color=cccccc&bg_color=00000000&hide_border=true">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=SamyakAnand&theme=dark&hide_border=true&ring=A56BFF&currStreakLabel=B07BFF">
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakAnand&layout=compact&title_color=A56BFF&text_color=cccccc&bg_color=00000000&hide_border=true">
-</p>
-
----
-
-# ✨ Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
+</details>
 
 ---
 
-# 🌐 Connect With Me
+## 04 / THE WORKBENCH
 
-<p align="center">
-  <a href="mailto:samyak.g.anand@gmail.com">
-  <img src="https://img.shields.io/badge/Email-A56BFF?style=for-the-badge&logo=gmail&logoColor=fff"></a>
-  <a href="https://linkedin.com/in/samyakanand">
-  <img src="https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
-  <a href="https://www.instagram.com/samyak_anand17">
-  <img src="https://img.shields.io/badge/Instagram-B266FF?style=for-the-badge&logo=instagram&logoColor=fff"></a>
-</p>
+<div align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=SamyakAnand&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakAnand&layout=compact&hide_border=true&bg_color=0D0B16&title_color=C4B5FD&text_color=DDD6FE&langs_count=8" height="165" alt="Most used languages"/>
 
-<p align="center" style="color:#777;">
+<br/>
 
-</p>
+<img src="https://streak-stats.demolab.com?user=SamyakAnand&theme=tokyonight&hide_border=true&background=0D0B16&ring=A78BFA&fire=C084FC&currStreakLabel=C4B5FD" width="72%" alt="Contribution streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SamyakAnand&theme=discord&no-frame=true&no-bg=true&row=1&column=6" width="96%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 05 / CONTRIBUTION CONSTELLATION
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamyakAnand&bg_color=0D0B16&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 06 / CURRENTLY LEARNING
+
+- **RAG engineering:** retrieval quality, chunking, reranking, evaluation, and grounded generation.
+- **Agentic AI:** tool use, orchestration, memory boundaries, and reliable workflows.
+- **AI evaluation:** observability, tracing, test sets, and measurable system quality.
+- **Production engineering:** API design, containers, deployment, security, and maintainability.
+
+---
+
+## 07 / CONNECT TO THE BUILDER
+
+<div align="center">
+
+<a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit-7B2CBF?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/samyakanand/"><img src="https://img.shields.io/badge/💼_LINKEDIN-Connect-5A189A?style=for-the-badge" alt="LinkedIn"/></a>
+<a href="https://github.com/SamyakAnand"><img src="https://img.shields.io/badge/⌘_GITHUB-Follow-3C096C?style=for-the-badge" alt="GitHub"/></a>
+
+<br/><br/>
+
+### 「The next version is always under construction.」
+
+**SAM.exe** · *Curiosity → Experiments → Systems → Impact*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240046,50:5A189A,100:9D4EDD&height=110&section=footer" width="100%" alt="Violet cosmic footer"/>
+
+</div>
