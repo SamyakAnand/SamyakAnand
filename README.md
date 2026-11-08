@@ -1,18 +1,15 @@
- <div align="center">
+<div align="center">
 
-  <img src="assets/samyak-anand-banner.svg" width="100%" alt="Samyak Anand — AI, Machine Learning and Data Science Engineer" />
+  <img src="assets/samyak-anand-banner.svg" width="100%" alt="Samyak Anand — AI Engineer focused on applied AI, retrieval systems and data engineering" />
 
   <p>
-    <a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-0B1726?style=for-the-badge&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/samyakanand/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0B1726?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-    <a href="mailto:samyakanand2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0B1726?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email" /></a>
+    <a href="https://samyak-anand.vercel.app/">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/samyakanand/">LinkedIn</a> ·
+    <a href="mailto:samyakanand2003@gmail.com">Email</a>
   </p>
 
-  <h3>AI Engineer · Machine Learning Engineer · Data Scientist · Data Analyst</h3>
-  <p><em>I turn data, models, and modern AI into useful products, reliable workflows, and decisions people can trust.</em></p>
-
-  <img src="assets/neural-orbit.svg" width="100%" alt="Animated neural network connecting AI, data science, machine learning and analytics" />
-  <img src="assets/stack-orbit.svg" width="100%" alt="Animated orbital map of my engineering toolkit" />
+  <h3>AI Engineer · Applied AI · Python Backend</h3>
+  <p><em>I build practical AI-enabled software, from data and retrieval pipelines to APIs, evaluation and usable interfaces.</em></p>
 
 </div>
 
@@ -20,144 +17,67 @@
 
 ## About
 
-I'm **Samyak Anand**, a Computer Science graduate and Data Science Trainer building across **AI engineering, applied machine learning, data science, and analytics**.
+I'm **Samyak Anand**, a Computer Science graduate and Data Science Trainer at **Softgrowth Infotech** (October 2025–present), based in Hyderabad, India.
 
-I enjoy working end to end: understanding a problem, preparing and analyzing data, building models or retrieval workflows, exposing capabilities through APIs, and delivering a usable product.
+My current focus is **applied AI engineering**: building software around LLMs and retrieval, making workflows inspectable, and using deterministic code and evaluation where reliability matters.
 
-- **Based in:** Hyderabad, India
-- **Current role:** Data Science Trainer — Softgrowth Infotech
-- **Education:** B.Tech, Computer Science & Engineering
-- **Portfolio:** [samyak-anand.vercel.app](https://samyak-anand.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/samyakanand](https://www.linkedin.com/in/samyakanand/)
+I enjoy taking a problem from its data and system design through implementation, testing, API design and a usable interface.
 
-### Roles and areas
+## Selected engineering work
 
-**AI Engineer · Applied AI Engineer · GenAI / RAG Engineer · Machine Learning Engineer · Data Scientist · Data Analyst · Python Backend Engineer**
+These are active portfolio projects at different maturity levels. Their status is stated plainly so you can judge what is implemented and what remains.
 
-I bring these areas together through Python, SQL, machine learning, LLM applications, data visualization, and practical software engineering.
+### [NEXUS — Autonomous Data Analyst](https://github.com/SamyakAnand/NEXUS)
+**A deterministic analytics workflow with inspectable execution.**
 
-## Project universe
+- Profiles CSV, JSON and XLSX datasets, plans analysis from a question, selects Python/SQL/statistical tools and validates outputs.
+- Returns findings with evidence, run traces and chart-ready results; includes preview-and-apply cleaning operations and a deterministic evaluation suite.
+- **Implemented:** local FastAPI + Next.js workflow, file-backed run storage, read-only SQL over an isolated data frame and fixture-based evaluations.
+- **Not production-ready yet:** PostgreSQL/Redis are provisioned but not wired into the API; LLM synthesis, multi-user authentication and production worker isolation are not implemented.
 
-<div align="center">
-  <img src="assets/project-constellation.svg" width="100%" alt="Project constellation connecting autonomous analytics, evidence-based AI, code intelligence and applied machine learning" />
-  <sub>Projects connected by a common goal: turn complex information into useful, verifiable outcomes.</sub>
-</div>
+*Python · FastAPI · Pandas · SQL · Next.js · TypeScript*
 
-## Featured projects
+### [ARGUS AI — Evidence-oriented knowledge workspace](https://github.com/SamyakAnand/Argus-Ai)
+**Search documents and inspect the source passages behind an answer.**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/NEXUS">NEXUS</a></h3>
-      <strong>Autonomous Data Analyst</strong>
-      <p>A data-analysis workflow that profiles datasets, plans analysis from a question, routes work to deterministic Python/SQL tools, validates outputs, and returns findings with an execution trace.</p>
-      <sub>Python · Pandas · SQL · Tool routing · Validation</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/Argus-Ai">ARGUS AI</a></h3>
-      <strong>Evidence-oriented knowledge workspace</strong>
-      <p>A document intelligence workspace for indexing text, retrieving source passages, preserving evidence trails, and running a separate structured-data analytics workflow.</p>
-      <sub>FastAPI · Next.js · TypeScript · Retrieval · Evidence trails</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/Shiro-Ai">SHIRO CodeMind</a></h3>
-      <strong>Source-grounded code intelligence</strong>
-      <p>Explores repository indexing, parser-derived imports, source-snapshot Q&amp;A, and study artifacts grounded in file-and-line references.</p>
-      <sub>Python · SQLite · Code indexing · Retrieval</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/Resume-Analyzer">AI Resume Analyzer</a></h3>
-      <strong>NLP-based resume matching</strong>
-      <p>Parses PDF/DOCX resumes and compares them with job descriptions using semantic similarity, TF-IDF cosine similarity, and skill overlap.</p>
-      <sub>Python · Flask · NLP · Similarity scoring</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/Student-Performance-Indicator">Student Performance Indicator</a></h3>
-      <strong>End-to-end predictive ML</strong>
-      <p>A regression workflow spanning ingestion, preprocessing, feature transformation, model training, prediction, and a Flask interface.</p>
-      <sub>Scikit-learn · Regression · Flask · Docker</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SamyakAnand/Credit-Card-Analytics-Dashboard-Power-BI-">Credit Card Analytics</a></h3>
-      <strong>Business intelligence dashboard</strong>
-      <p>Explores transaction revenue, interest, customer segments, spending patterns, payment modes, and risk dimensions through interactive reporting.</p>
-      <sub>Power BI · DAX · Power Query · Data modeling</sub>
-    </td>
-  </tr>
-</table>
+- Indexes local Markdown/UTF-8 text, retrieves source passages and preserves source offsets.
+- Separates document knowledge retrieval from a legacy structured-data analytics workspace.
+- Includes a small deterministic evaluation suite and optional answer synthesis behind explicit configuration.
+- **Current boundary:** development preview; citation-ID checks do not prove semantic entailment. Production identity lifecycle, rate limiting, durable multi-tenant storage and complete authorization coverage remain unfinished.
 
-<details>
-  <summary><strong>Explore more data science and analytics projects</strong></summary>
-  <br/>
-  <a href="https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project">Financial Risk Analytics</a> ·
-  <a href="https://github.com/SamyakAnand/Insurance-Data-Analysis">Insurance Data Analysis</a> ·
-  <a href="https://github.com/SamyakAnand/Netflix-Dashboard-in-Power-BI">Netflix Dashboard</a> ·
-  <a href="https://github.com/SamyakAnand/Amazon-Prime-Video-Dashboard-in-Power-BI-">Prime Video Dashboard</a> ·
-  <a href="https://github.com/SamyakAnand/Blinkit-Sales-Inventory-Analytics-Dashboard-End-to-End-Power-BI-Project">Blinkit Sales &amp; Inventory</a> ·
-  <a href="https://github.com/SamyakAnand/Car24_Webscraping_project">CARS24 Web Scraper</a> ·
-  <a href="https://github.com/SamyakAnand/Amazon-Web-Scraping-Data-Analysis-project">Amazon Web Scraping</a> ·
-  <a href="https://github.com/SamyakAnand/Live-API-Data-Integration-Real-Time-Dashboards-with-Python-Power-BI">Live API Data Integration</a> ·
-  <a href="https://github.com/SamyakAnand/Disease-Predictor">Disease Predictor</a> ·
-  <a href="https://github.com/SamyakAnand/NetworkSecurity">Network Security</a>
-</details>
+*Python · FastAPI · Next.js · TypeScript · Retrieval · Clerk*
 
-## Engineering toolkit
+### [SHIRO CodeMind — Source-grounded code intelligence](https://github.com/SamyakAnand/Shiro-Ai)
+**Explore a public codebase with file-and-line grounded outputs.**
 
-<div align="center">
+- Imports public GitHub repositories as immutable commit snapshots.
+- Provides source browsing, parser-derived import relationships, repository Q&A and saved study artifacts with validated file/line references.
+- Includes local SQLite mode and a hosted architecture using Supabase Auth, Postgres and row-level security.
+- **Current boundary:** hosted deployment still requires end-to-end verification of OAuth, RLS isolation, persistence, environment configuration and function-time limits.
 
-  **Programming &amp; data**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,r,java,c,js,ts,mysql,postgres,mongodb&perline=9" alt="Python, R, Java, C, JavaScript, TypeScript, MySQL, PostgreSQL and MongoDB" />
+*Python · SQLite · Supabase · GitHub API · Retrieval*
 
-  <br/><br/>
-  **Machine learning &amp; AI**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi,flask,docker&perline=7" alt="PyTorch, TensorFlow, OpenCV, scikit-learn, FastAPI, Flask and Docker" />
-  <br/>
-  <img src="https://img.shields.io/badge/Generative_AI-LLM_Applications-102235?style=flat-square" alt="Generative AI and LLM applications" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval_%26_Grounding-102235?style=flat-square" alt="Retrieval augmented generation" />
-  <img src="https://img.shields.io/badge/Agentic_AI-Tool_Workflows-102235?style=flat-square" alt="Agentic AI and tool workflows" />
-  <img src="https://img.shields.io/badge/Evaluation-Quality_%26_Tracing-102235?style=flat-square" alt="AI evaluation and tracing" />
+### [AKATSUKI AI — Multi-agent workflow prototype](https://github.com/SamyakAnand/Akatsuki)
+**A local mission desk exploring typed handoffs and workflow state.**
 
-  <br/><br/>
-  **Analytics, cloud &amp; delivery**
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,aws,azure,gcp,react,nextjs,vercel&perline=8" alt="Git, GitHub, AWS, Azure, Google Cloud, React, Next.js and Vercel" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-1F4E79?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square" alt="DVC" />
+- Persists missions, member conversations, handoffs, artifacts and a collaboration timeline.
+- Uses deterministic local routines for a narrow built-in unit-conversion task.
+- **Current boundary:** no LLM provider, external research, general-purpose coding agent or production worker sandbox is connected. This is an experimental workflow prototype, not an autonomous production agent.
 
-  <br/><br/>
-  <sub>Also exploring: LangChain · LangGraph · Streamlit · Supabase · Power Query · DAX · MLflow · DVC</sub>
+*Python · SQLite · Workflow orchestration*
 
-</div>
+## Engineering strengths
 
-## How I approach engineering
-
-| Stage | What I focus on |
+| Area | Practical focus |
 |---|---|
-| **Understand** | Define the problem, users, success criteria, constraints, and data requirements. |
-| **Prepare** | Validate inputs, inspect data quality, define schemas, and preserve lineage. |
-| **Build** | Establish a transparent baseline; add models, retrieval, or orchestration where justified. |
-| **Evaluate** | Test behavior, inspect errors, measure quality, and make limitations visible. |
-| **Deliver** | Ship usable APIs, interfaces, dashboards, and reproducible documentation. |
-| **Improve** | Monitor failures and iterate from evidence rather than assumptions. |
+| **Applied AI** | Retrieval workflows, source grounding, bounded tool use, structured outputs |
+| **Backend engineering** | Python, FastAPI, API contracts, validation, persistence |
+| **Data & ML** | Pandas, SQL, data profiling, scikit-learn, evaluation |
+| **Frontend delivery** | Next.js, React, TypeScript |
+| **Reliability** | Tests, deterministic fallbacks, execution traces, explicit limitations |
+| **Developer workflow** | Git, GitHub Actions, Docker |
 
-## Currently exploring
-
-- **RAG &amp; knowledge systems:** retrieval quality, chunking, reranking, grounded generation, and citation validation.
-- **Agentic AI:** tool use, workflow state, bounded autonomy, handoffs, and deterministic fallbacks.
-- **AI evaluation:** test datasets, quality metrics, tracing, observability, and failure analysis.
-- **Applied ML:** preprocessing, feature engineering, model selection, and error analysis.
-- **Analytics engineering:** reliable SQL transformations, semantic models, KPI definitions, and actionable dashboards.
+I prefer to show a technology through a working repository rather than list tools I have only experimented with.
 
 ## Experience
 
@@ -165,46 +85,37 @@ I bring these areas together through Python, SQL, machine learning, LLM applicat
 *October 2025 – Present*
 
 - Mentor learners in data science concepts and practical workflows.
-- Translate programming, analytics, and machine learning concepts into hands-on exercises.
+- Turn programming, analytics and machine learning topics into hands-on exercises.
 - Support project-based learning and technical problem solving.
 
-## GitHub activity
+**Education:** B.Tech, Computer Science & Engineering.
 
-The activity and contribution history below are served by GitHub itself rather than third-party stats-card APIs, so the profile does not depend on an external stats service.
+## Additional projects
 
-<div align="center">
-  <a href="https://github.com/SamyakAnand?tab=overview">
-    <img src="https://img.shields.io/badge/VIEW-GitHub%20contribution%20calendar-0B1726?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution calendar" />
-  </a>
-  <a href="https://github.com/SamyakAnand?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE-Public%20repositories-0B1726?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/SamyakAnand/SamyakAnand/actions/workflows/profile-3d.yml">
-    <img src="https://github.com/SamyakAnand/SamyakAnand/actions/workflows/profile-3d.yml/badge.svg" alt="3D contribution profile workflow status" />
-  </a>
-</div>
+A selection of earlier machine learning and analytics work:
 
-## 3D contribution landscape
+- [AI Resume Analyzer](https://github.com/SamyakAnand/Resume-Analyzer) — resume parsing and job-description matching using NLP and similarity methods.
+- [Student Performance Indicator](https://github.com/SamyakAnand/Student-Performance-Indicator) — end-to-end regression workflow with preprocessing, training and a Flask interface.
+- [Credit Card Analytics Dashboard](https://github.com/SamyakAnand/Credit-Card-Analytics-Dashboard-Power-BI-) — Power BI reporting for customer and transaction analysis.
+- [Financial Risk Analytics](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project) · [Insurance Data Analysis](https://github.com/SamyakAnand/Insurance-Data-Analysis) · [Blinkit Sales & Inventory](https://github.com/SamyakAnand/Blinkit-Sales-Inventory-Analytics-Dashboard-End-to-End-Power-BI-Project)
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution calendar visualization" />
-  <sub>Refreshed daily by GitHub Actions. If this image is still a setup preview, run the workflow once from the Actions tab.</sub>
-</div>
+## What I'm focused on now
 
-## Let's connect
+- Improving retrieval quality, grounding and evaluation in knowledge systems.
+- Building robust Python APIs and well-defined tool interfaces.
+- Testing agent workflows for failure handling, observability and bounded autonomy.
+- Turning prototypes into deployable software with clear security and operational boundaries.
 
-I'm interested in meaningful opportunities and collaborations across **AI Engineering, Applied Machine Learning, GenAI, Data Science, and Analytics**.
+## Contact
 
-<div align="center">
-  <a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-0B1726?style=for-the-badge&logo=vercel&logoColor=5EEAD4" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/samyakanand/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0B1726?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" /></a>
-  <a href="mailto:samyakanand2003@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-0B1726?style=for-the-badge&logo=gmail&logoColor=818CF8" alt="Email" /></a>
-</div>
+I'm interested in **AI Engineer, Applied AI Engineer and Python Backend Engineer** opportunities, especially teams building useful AI products.
+
+- **Portfolio:** https://samyak-anand.vercel.app/
+- **LinkedIn:** https://www.linkedin.com/in/samyakanand/
+- **Email:** samyakanand2003@gmail.com
+
+---
 
 <div align="center">
-  <br/>
-  <strong>DATA → INTELLIGENCE → IMPACT</strong>
-  <br/>
-  <sub>Building practical systems that are useful, measurable, and explainable.</sub>
+  <sub>Build clearly. Measure honestly. Ship what works.</sub>
 </div>
