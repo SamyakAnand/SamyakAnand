@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">SAM.exe — The AI Universe</title>
+<desc id="desc">An original anime-inspired hooded AI engineer silhouette standing in a violet cosmic nebula with orbiting particles and terminal-inspired typography.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080611"/><stop offset=".52" stop-color="#1b1034"/><stop offset="1" stop-color="#090713"/></linearGradient>
+  <radialGradient id="nebula"><stop stop-color="#a855f7" stop-opacity=".55"/><stop offset=".48" stop-color="#6d28d9" stop-opacity=".22"/><stop offset="1" stop-color="#090713" stop-opacity="0"/></radialGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0abfc"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+  <linearGradient id="cloak" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#35205c"/><stop offset="1" stop-color="#100b20"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#c4b5fd" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="26" fill="url(#grid)"/>
+<ellipse cx="820" cy="205" rx="420" ry="260" fill="url(#nebula)"/>
+<g fill="none" stroke="#a78bfa" stroke-opacity=".22">
+ <ellipse cx="850" cy="205" rx="300" ry="100" transform="rotate(-22 850 205)"/>
+ <ellipse cx="850" cy="205" rx="360" ry="145" transform="rotate(18 850 205)"/>
+ <ellipse cx="850" cy="205" rx="230" ry="65" transform="rotate(42 850 205)"/>
+</g>
+<g fill="#e9d5ff" filter="url(#glow)">
+ <circle cx="740" cy="60" r="2"/><circle cx="920" cy="88" r="1.5"/><circle cx="1080" cy="145" r="2"/>
+ <circle cx="680" cy="280" r="1.5"/><circle cx="1030" cy="330" r="2"/><circle cx="830" cy="365" r="1.3"/>
+ <circle cx="1140" cy="245" r="1.5"/><circle cx="610" cy="125" r="1.2"/>
+</g>
+<g fill="none" stroke="#c4b5fd" stroke-width="1.5" opacity=".8">
+ <path d="M760 45v18m-9-9h18"/><path d="M1080 275v16m-8-8h16"/><path d="M650 335v12m-6-6h12"/>
+</g>
+<!-- original hooded anime-inspired engineer silhouette -->
+<g transform="translate(825 70)" filter="url(#glow)">
+ <path d="M100 48C52 58 28 99 31 151l-16 155 83-32 93 32-15-155c3-52-21-93-76-103z" fill="url(#cloak)" stroke="#a78bfa" stroke-width="2"/>
+ <path d="M52 114c4-49 27-76 52-76s48 27 52 76l-19 61-33 23-33-23z" fill="#120d20" stroke="#c4b5fd" stroke-width="2"/>
+ <path d="M62 119c15-20 67-20 84 0l-10 34-32 18-32-18z" fill="#090713"/>
+ <path d="M73 133l20 5m20 0 20-5" stroke="#e9d5ff" stroke-width="3" stroke-linecap="round"/>
+ <path d="M88 151l17 8 17-8" fill="none" stroke="#a78bfa" stroke-width="2"/>
+ <path d="M32 171l-30 73 40 14 35-64m91-23 30 73-40 14-35-64" fill="url(#cloak)" stroke="#8b5cf6" stroke-width="2"/>
+ <path d="M70 190l35 24 35-24 25 118H45z" fill="#1b1034" stroke="#a78bfa" stroke-opacity=".7"/>
+ <path d="M105 215v84" stroke="#c4b5fd" stroke-opacity=".55"/>
+ <circle cx="105" cy="244" r="5" fill="#c084fc"/>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+ <text x="76" y="112" fill="#c4b5fd" font-size="15" letter-spacing="5">THE AI UNIVERSE / EST. 2024</text>
+ <text x="72" y="205" fill="#fff" font-size="82" font-weight="800" letter-spacing="-5">SAM<tspan fill="url(#violet)">.exe</tspan></text>
+ <text x="78" y="250" fill="#ddd6fe" font-size="21" letter-spacing="2">BUILDING INTELLIGENCE BEYOND THE PROMPT.</text>
+ <text x="80" y="304" fill="#a78bfa" font-size="14" letter-spacing="3">AI ENGINEERING  //  MACHINE LEARNING  //  GENAI</text>
+ <text x="80" y="366" fill="#8b7ba9" font-size="12" letter-spacing="2">[ SYSTEM ONLINE ]  [ CURIOSITY: INFINITE ]</text>
+</g>
+<path d="M60 386H1140" stroke="#a78bfa" stroke-opacity=".3"/>
+<rect x="1" y="1" width="1198" height="418" rx="25" fill="none" stroke="#a78bfa" stroke-opacity=".45"/>
+</svg>
