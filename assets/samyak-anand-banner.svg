@@ -1,5 +1,5 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">Samyak Anand — Applied AI Engineer</title>
+<title id="title">Samyak Anand — Data Scientist and Applied AI Engineer</title>
 <desc id="desc">A dark technical banner with an abstract connected-systems illustration. No performance metrics are implied.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
@@ -46,12 +46,12 @@
   </g>
 </g>
 <g transform="translate(76 74)">
-  <text x="0" y="18" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4">APPLIED AI  /  SOFTWARE ENGINEERING</text>
+  <text x="0" y="18" fill="#5EEAD4" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="4">DATA SCIENCE  /  MACHINE LEARNING  /  APPLIED AI</text>
   <text x="-2" y="94" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="60" font-weight="800" letter-spacing="-2.5">SAMYAK ANAND</text>
   <rect x="0" y="117" width="76" height="4" rx="2" fill="url(#accent)"/>
-  <text x="0" y="158" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">Building practical AI-enabled software.</text>
-  <text x="0" y="190" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">From retrieval to reliable workflows.</text>
-  <text x="0" y="238" fill="#91A9B9" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.6">PYTHON  ·  LLM SYSTEMS  ·  DATA  ·  APIs</text>
+  <text x="0" y="158" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">Exploring data. Building predictive models.</text>
+  <text x="0" y="190" fill="#D5E4EC" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="500">From statistical insight to intelligent systems.</text>
+  <text x="0" y="238" fill="#91A9B9" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.6">PYTHON  ·  DATA SCIENCE  ·  ML  ·  GENERATIVE AI</text>
 </g>
 <path d="M76 306H1204" stroke="#8BA6B7" stroke-opacity=".18"/>
 <text x="76" y="332" fill="#8BA6B7" font-family="Inter,Arial,sans-serif" font-size="10" letter-spacing="2">BUILD CLEARLY. MEASURE HONESTLY. SHIP WHAT WORKS.</text>
