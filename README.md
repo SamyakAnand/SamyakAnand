@@ -3,8 +3,8 @@
   <img src="assets/samyak-anand-banner.svg" width="100%" alt="Samyak Anand — Applied AI Engineer" />
 
   <h1>Samyak Anand</h1>
-  <h3>Applied AI Engineer · Generative AI · Python · Machine Learning</h3>
-  <p><em>I build practical AI applications that connect retrieval, machine learning, data workflows and dependable backend services.</em></p>
+  <h3>Data Scientist · Applied AI Engineer · Machine Learning · Generative AI</h3>
+  <p><em>Data Science is my foundation; Applied AI is where I extend it into intelligent, useful software.</em></p>
 
   <p>
     <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/"><strong>✦ Portfolio</strong></a>
@@ -29,7 +29,7 @@
 
 ## About
 
-I'm a Computer Science and Engineering graduate based in **Hyderabad, India**, focused on **Applied AI Engineering**. I enjoy turning technical ideas into usable software: evidence-oriented knowledge tools, source-grounded code exploration, analytical applications, machine-learning pipelines and Python APIs.
+I'm a Computer Science and Engineering graduate based in **Hyderabad, India**, with a strong foundation in **Data Science, Machine Learning and Analytics**, and a growing specialization in **Applied AI Engineering**. Data Science is a part of my professional identity that I'm proud of: understanding data, finding patterns, building predictive models, communicating insights and turning analysis into decisions. I also build practical AI applications such as evidence-oriented knowledge tools, source-grounded code exploration and Python-backed intelligent workflows.
 
 My approach is practical and evidence-led:
 
@@ -44,9 +44,9 @@ My approach is practical and evidence-led:
 
 | Focus | Practical areas |
 |---|---|
+| **Data Science & Analytics** | Data preprocessing, EDA, statistics, hypothesis-driven analysis, visualization, analytical reporting, KPI development |
+| **Machine Learning** | Classification, regression, feature engineering, predictive analytics, model evaluation, drift reporting |
 | Applied AI & LLM apps | LLM application development, prompt engineering, retrieval workflows, source-grounded QA, structured tool calling, citation checks |
-| Machine learning | Classification, regression, feature engineering, model evaluation, predictive analytics |
-| Data science | Data preprocessing, EDA, statistics, data visualization, analytical reporting |
 | Backend engineering | Python, FastAPI, Flask, REST APIs, Pydantic, SQL |
 | Product development | Next.js, React, TypeScript, interactive web applications |
 | ML engineering | MLflow, DVC, DagsHub, Docker, GitHub Actions, reproducible workflows |
@@ -55,7 +55,7 @@ My approach is practical and evidence-led:
 
 ## Featured projects
 
-The projects below are ordered by relevance to my current Applied AI / ML engineering focus. Demo links are included where a hosted application is available.
+The projects below represent both sides of my work: Data Science / Machine Learning and Applied AI engineering. I value the full journey from understanding data and building models to creating useful intelligent applications. Demo links are included where a hosted application is available.
 
 <table>
   <tr>
@@ -142,6 +142,24 @@ The projects below are ordered by relevance to my current Applied AI / ML engine
   </tr>
 </table>
 
+### Data Science & Business Intelligence portfolio
+
+Data Science is not a side note in my profile—it is a core part of my training, experience and project work. Alongside AI application engineering, I continue to build analytical workflows, predictive models and business intelligence dashboards.
+
+| Project | Focus | Repository |
+|---|---|---|
+| Network Security ML Pipeline | Network telemetry, anomaly detection and machine-learning workflow | [GitHub](https://github.com/SamyakAnand/NetworkSecurity) |
+| Student Performance Indicator | Regression, preprocessing and academic performance analysis | [GitHub](https://github.com/SamyakAnand/Student-Performance-Indicator) |
+| Disease Predictor | Five-category predictive modelling and ML experiment tracking | [GitHub](https://github.com/SamyakAnand/Disease-Predictor) |
+| Financial Risk Analytics | Financial data analysis and Power BI reporting | [GitHub](https://github.com/SamyakAnand/Financial-Risk-Analytics-Dashboard-End-to-End-Power-BI-Project) |
+| Credit Card Analytics | Customer and credit-card metrics, DAX and dashboards | [GitHub](https://github.com/SamyakAnand/Credit-Card-Analytics-Dashboard-Power-BI-) |
+| Blinkit Sales & Inventory | Retail sales, inventory and business performance analytics | [GitHub](https://github.com/SamyakAnand/Blinkit-Sales-Inventory-Analytics-Dashboard-End-to-End-Power-BI-Project) |
+| Insurance Data Analysis | Insurance analytics and reporting | [GitHub](https://github.com/SamyakAnand/Insurance-Data-Analysis) |
+
+My BI work includes **SQL, Power Query, DAX, Excel, data transformation, dimensional modelling, KPI development and dashboard storytelling** across financial risk, insurance, credit cards, retail and streaming content.
+
+---
+
 ### More engineering and analytics work
 
 <details>
@@ -197,11 +215,11 @@ The projects below are ordered by relevance to my current Applied AI / ML engine
 |---|---|
 | Applied AI | LLM application development, prompt engineering, retrieval workflows, lexical retrieval, source-grounded QA, structured tool calling, citation verification, AI agent concepts |
 | Machine learning | Scikit-learn, TensorFlow, Keras, PyTorch, NLTK, Sentence Transformers, regression, classification, feature engineering, model evaluation |
-| Data science | Pandas, NumPy, SciPy, EDA, statistical analysis, Matplotlib, Seaborn, data visualization |
+| Data science & analytics | Pandas, NumPy, SciPy, EDA, statistical analysis, Matplotlib, Seaborn, data visualization, KPI development, analytical reporting |
 | Backend | Python, FastAPI, Flask, REST APIs, Pydantic |
 | Frontend | Next.js, React, TypeScript, JavaScript, HTML5, CSS3 |
 | Databases | PostgreSQL, MySQL, SQLite, MongoDB |
-| BI | Power BI, Tableau, Advanced Excel, Power Query, DAX, data modelling |
+| Business intelligence | Power BI, Tableau, Advanced Excel, Power Query, DAX, data modelling, dashboard development, KPI analysis |
 | MLOps & delivery | MLflow, DVC, DagsHub, Docker, Git, GitHub Actions, Vercel, Render |
 
 I distinguish technologies used in documented projects from tools I am continuing to learn. Familiarity does not automatically imply production expertise.
@@ -256,7 +274,7 @@ I distinguish technologies used in documented projects from tools I am continuin
 
 ---
 
-## How I think about engineering
+## Data Science to Applied AI: my engineering approach
 
 ```mermaid
 flowchart LR
@@ -270,7 +288,7 @@ flowchart LR
     G --> H[Observable, Useful Output]
 ```
 
-I aim for systems where the result can be inspected: inputs are validated, calculations are reproducible, retrieved context is traceable, and limitations are visible.
+My process starts with the data and the problem: understand the question, inspect and prepare the data, analyse patterns or train and evaluate a model, then communicate the result clearly. When the problem calls for it, I extend that foundation into retrieval, LLM workflows and software applications. I aim for work that is reproducible, explainable and honest about its limitations.
 
 ## GitHub activity
 
