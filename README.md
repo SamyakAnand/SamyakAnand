@@ -7,7 +7,7 @@
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/samyakanand/"><strong>LINKEDIN</strong></a>
     &nbsp;·&nbsp;
-    <a href="mailto:samyakanand2003@gmail.com"><strong>EMAIL</strong></a>
+    <a href="mailto:samyak.anand2003@gmail.com"><strong>EMAIL</strong></a>
     &nbsp;·&nbsp;
     <a href="https://github.com/SamyakAnand"><strong>GITHUB</strong></a>
   </p>
