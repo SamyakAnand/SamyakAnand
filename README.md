@@ -5,11 +5,12 @@
   <h1>Samyak Anand</h1>
   <h3>Data Scientist · Applied AI Engineer · Machine Learning · Generative AI</h3>
   <p><em>Data Science is my foundation; Applied AI is where I extend it into intelligent, useful software.</em></p>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=760&lines=Data+Science+%26+Analytics;Machine+Learning+%26+Predictive+Modeling;Applied+AI+%26+LLM+Applications;Python+%7C+FastAPI+%7C+SQL+%7C+Power+BI" alt="Data Science, Machine Learning and Applied AI" /></a>
 
   <p>
     <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/"><strong>✦ Portfolio</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://samyak-anand.vercel.app/Resume/Samyak_Updated_CV.pdf"><strong>Resume</strong></a>
+    <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/resume.pdf"><strong>Resume</strong></a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/samyakanand/"><strong>LinkedIn</strong></a>
     &nbsp;·&nbsp;
@@ -104,7 +105,7 @@ The projects below represent both sides of my work: Data Science / Machine Learn
     </td>
     <td width="50%" valign="top">
       <h3>04 · Disease Predictor — Multi-Disease ML System</h3>
-      <a href="https://disease-predictor-j8m7.onrender.com/"><img src="https://img.shields.io/badge/▶_OPEN-Live_Demo-16a34a?style=for-the-badge" alt="Disease Predictor live demo" /></a>
+      <a href="https://disease-predictor-dvty.onrender.com/"><img src="https://img.shields.io/badge/▶_OPEN-Live_Demo-16a34a?style=for-the-badge" alt="Disease Predictor live demo" /></a>
       <a href="https://github.com/SamyakAnand/Disease-Predictor"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github" alt="Disease Predictor source" /></a>
       <p><b>Python · Flask · Scikit-learn · MongoDB · MLflow · DagsHub</b></p>
       <ul>
@@ -141,6 +142,30 @@ The projects below represent both sides of my work: Data Science / Machine Learn
     </td>
   </tr>
 </table>
+
+### More live work · Data Science & Machine Learning
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>07 · Student Academic Performance Predictor</h3>
+      <a href="https://student-performance-indicator-3pe6.onrender.com/"><img src="https://img.shields.io/badge/▶_OPEN-Live_Demo-16a34a?style=for-the-badge" alt="Student Performance live demo" /></a>
+      <a href="https://github.com/SamyakAnand/Student-Performance-Indicator"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github" alt="Student Performance source" /></a>
+      <p><b>Python · Scikit-learn · Regression · Feature Engineering</b></p>
+      <p>An end-to-end predictive modelling project for estimating student academic performance from structured demographic and socioeconomic features.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>08 · Network Security Anomaly Pipeline</h3>
+      <a href="https://github.com/SamyakAnand/NetworkSecurity"><img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github" alt="Network Security source" /></a>
+      <p><b>Python · Scikit-learn · MongoDB · ML Pipelines</b></p>
+      <p>A modular machine-learning workflow for network telemetry, preprocessing, anomaly detection and structured experiment outputs.</p>
+    </td>
+  </tr>
+</table>
+
+[Browse all portfolio case studies and project demos →](https://samyak-anand-ai-scientist-portfolio.vercel.app/)
+
+---
 
 ### Data Science & Business Intelligence portfolio
 
