@@ -8,9 +8,9 @@
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=760&lines=Data+Science+%26+Analytics;Machine+Learning+%26+Predictive+Modeling;Applied+AI+%26+LLM+Applications;Python+%7C+FastAPI+%7C+SQL+%7C+Power+BI" alt="Data Science, Machine Learning and Applied AI" /></a>
 
   <p>
-    <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/"><strong>✦ Portfolio</strong></a>
+    <a href="https://samyak-anand.vercel.app/"><strong>✦ Portfolio</strong></a>
     &nbsp;·&nbsp;
-    <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/resume.pdf"><strong>Resume</strong></a>
+    <a href="https://samyak-anand.vercel.app/resume.pdf"><strong>Resume</strong></a>
     &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/samyakanand/"><strong>LinkedIn</strong></a>
     &nbsp;·&nbsp;
@@ -163,7 +163,7 @@ The projects below represent both sides of my work: Data Science / Machine Learn
   </tr>
 </table>
 
-[Browse all portfolio case studies and project demos →](https://samyak-anand-ai-scientist-portfolio.vercel.app/)
+[Browse all portfolio case studies and project demos →](https://samyak-anand.vercel.app/)
 
 ---
 
@@ -330,7 +330,7 @@ My process starts with the data and the problem: understand the question, inspec
 
 <div align="center">
 
-  <a href="https://samyak-anand-ai-scientist-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7c3aed?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="https://samyak-anand.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7c3aed?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/samyakanand/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:samyak.g.anand@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/SamyakAnand"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
